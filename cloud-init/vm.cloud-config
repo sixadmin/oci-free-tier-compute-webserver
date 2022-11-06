@@ -1,0 +1,6 @@
+#cloud-config
+runcmd:
+-   sudo apt-get update
+-   sudo apt-get install apache2 -y
+-   sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
+-   sudo netfilter-persistent save

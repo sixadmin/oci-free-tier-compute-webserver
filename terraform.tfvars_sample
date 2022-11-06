@@ -1,0 +1,14 @@
+# Authentication
+tenancy_ocid         = "ocid1.tenancy.oc1..aaaaaaaaujxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# Region
+region = "eu-paris-1"
+
+# Compartment
+compartment_ocid = "ocid1.tenancy.oc1..aaaaaaaaujxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+user_ocid = "ocid1.user.oc1..aaaaaaaabeqsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhzjold7shq"
+
+private_key_path = "/home/richard/.oci/oci.pem"
+
+fingerprint = "XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX"
